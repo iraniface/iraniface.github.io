@@ -1,0 +1,9 @@
+{
+  "serverAddress": "http://serverAddress",
+  "models": [
+    { "name": "soheil_sangarzadeh1", "cover": "soheil_sangarzadeh1.png" },
+    { "name": "soheil_sangarzadeh2", "cover": "soheil_sangarzadeh2.png" },
+    { "name": "reza_attaran1", "cover": "reza_attaran1.png" },
+    { "name": "elnaz_shakerdoost1", "cover": "elnaz_shakerdoost1.png" }
+  ]
+}
