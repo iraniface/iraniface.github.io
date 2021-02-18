@@ -1,9 +1,9 @@
 {
   "serverAddress": "http://serverAddress",
   "models": [
-    { "name": "soheil_sangarzadeh1", "cover": "soheil_sangarzadeh1.png" },
-    { "name": "soheil_sangarzadeh2", "cover": "soheil_sangarzadeh2.png" },
-    { "name": "reza_attaran1", "cover": "reza_attaran1.png" },
-    { "name": "elnaz_shakerdoost1", "cover": "elnaz_shakerdoost1.png" }
+    { "id": "soheil_sangarzadeh1", "name": "سهیل 1", "cover": "soheil_sangarzadeh1.png" },
+    { "id": "soheil_sangarzadeh2", "name": "سهیل 2", "cover": "soheil_sangarzadeh2.png" },
+    { "id": "reza_attaran1", "name": "رضا عطاران", "cover": "reza_attaran1.png" },
+    { "id": "elnaz_shakerdoost1", "name": "الناز شاکر دوست", "cover": "elnaz_shakerdoost1.png" }
   ]
 }
